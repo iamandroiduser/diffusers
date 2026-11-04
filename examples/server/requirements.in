@@ -1,5 +1,5 @@
-torch~=2.4.0
-transformers==4.46.1
+torch~=2.15.0
+transformers==5.10.1
 sentencepiece
 aiohttp
 py-consul
